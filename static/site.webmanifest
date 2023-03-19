@@ -1,0 +1,23 @@
+{
+    "name": "Taktical Studio",
+    "short_name": "Taktical",
+    "description": "Taktical Studio Web App",
+    "icons": [
+        {
+            "src": "https://takticalstudio.com/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+    {
+      "src": "https://takticalstudio.com/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+    ],
+    "theme_color": "#ed1b33",
+    "background_color": "#4c546b",
+    "display": "standalone",
+    "start_url": "https://takticalstudio.com",
+    "scope": "/"
+}
