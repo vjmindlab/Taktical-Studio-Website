@@ -5,3 +5,6 @@ As a co-founder of Taktical Studio i was tasked with the creation of a unique mo
 
 Involvement and tasks:
 Ideation and concept. Design of the UX/UI. Production of all the 2D assets and images. Creation and production of the needed 3D assets. Coding, production and integration of the final application. Deployment and configuration of the server stack.
+
+Technologies:
+Vanilla javascript, GSAP ScrollTrigger, Three.js, Blender, Server stack Firebase.
