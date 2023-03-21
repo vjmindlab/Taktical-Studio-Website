@@ -9,4 +9,6 @@ Ideation and concept. Design of the UX/UI. Production of all the 2D assets and i
 Technologies:
 Vanilla javascript, GSAP ScrollTrigger, Three.js, Blender, Server stack Firebase.
 
+- [See the Website here](https://takticalstudio.com)
+
 ![website preview](https://user-images.githubusercontent.com/46301974/226494204-fa3d1c60-628d-489f-8b0b-5b58c1374ad5.png)
